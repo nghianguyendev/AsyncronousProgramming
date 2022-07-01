@@ -14,3 +14,9 @@ asynchronous programming
 
 **Thread sharing resource:**
 - Heap memory
+
+# 3. Task
+- An activity that is ongoing while the main thread is continue.
+- Support cancellation and reporting of progress
+
+# 4. Thread
